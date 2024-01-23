@@ -41,7 +41,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-Ezzy-School_Manager">About Ezzy School Manager</a>
+      <a href="#about-Ezzy-URL_Shortener">About Ezzy URL Shortener API</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -67,7 +67,7 @@
 ---
 
 <!-- About the Blog. -->
-## About Ezzy-school_manager_api
+## About Ezzy-url_shortener_api
 
 This is a school manager API that helps educators manage all academic records and activities within their institution.
 The app caters for three set of users; the administrator, the staff and the students.
